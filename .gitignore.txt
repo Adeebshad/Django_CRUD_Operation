@@ -1,0 +1,6 @@
+venv
+*/__pycache__
+*/migrations/__pycache__
+demo/*/__pycache__
+myproject/*/__pycache__
+demo/migrations/__migrations__
